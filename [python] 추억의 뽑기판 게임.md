@@ -48,7 +48,8 @@ else:
 
 # 3. 실행 결과
 - 아래와 같이 참여자가 고른 번호와 랜덤으로 정해진 1~6등 당첨 번호 중 하나가 일치할 경우, 당첨되었다는 실행문을 출력한다.   
-- 참여자가 고른 번호와 당첨 번호가 일치하지 않을 경우, 꽝을 출력한다.
+- 참여자가 고른 번호와 당첨 번호가 일치하지 않을 경우, 꽝을 출력한다.   
+
 ![꽝](https://user-images.githubusercontent.com/101881124/208303888-9efe94fd-e48f-4f96-ba85-6026c0c73068.jpg)   
 ![5등 당첨](https://user-images.githubusercontent.com/101881124/208303897-20ff74fb-cb3f-4f51-81c8-62a7d9c69831.jpg)   
 ![6등 당첨](https://user-images.githubusercontent.com/101881124/208303900-48caa3f9-39e1-4050-bda1-99608f73558f.jpg)
