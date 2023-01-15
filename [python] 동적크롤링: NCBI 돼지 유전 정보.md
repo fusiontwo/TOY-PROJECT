@@ -24,7 +24,7 @@ NCBI(National Center for Biotechnology Information)에는 방대한 유전학적
 - 데이터의 누락 없이 엑셀 파일로 성공적으로 저장되었다.
 ![NCBI크롤링8](https://user-images.githubusercontent.com/101881124/212549018-030a6881-f12e-48b6-a5c1-0616f08373c9.jpg)
 ![NCBI크롤링9](https://user-images.githubusercontent.com/101881124/212549022-f978de35-6a5e-4d4a-936f-c8871154d6f5.jpg)
-![NCBI크롤링10](https://user-images.githubusercontent.com/101881124/212549026-9372d5bf-6010-40e9-9e25-e1f7a7db44cf.jpg)   
+![NCBI크롤링10](https://user-images.githubusercontent.com/101881124/212551031-05cef634-88c9-48a5-a0c2-c3ef084e08e7.jpg)  
 
 # 3. 고찰
 성공적으로 정적 크롤링을 통해 NCBI의 돼지의 유전 정보에 대한 데이터를 가져왔다. 보완할 부분은 패턴이 많이 달라서, 직접 수정했던 데이터 7개였다. 다양한 코드를 시도해보았으나 예외적인 패턴을 처리할 방법은 찾기 어려웠다. 앞으로 가장 간단한 코드로 원하는 데이터만을 추출할 수 있도록 다양한 사이트나 정보에 접근하여 크롤링을 연습해야 할 것 같다.   
